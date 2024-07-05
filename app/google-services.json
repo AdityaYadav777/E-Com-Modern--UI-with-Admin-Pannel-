@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717385151143",
+    "project_id": "a-kart-8b8ad",
+    "storage_bucket": "a-kart-8b8ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717385151143:android:f5803abb9b5f4cf9592182",
+        "android_client_info": {
+          "package_name": "com.aditya.a_kart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtJrvIe9CdVnfb08BmxbkjNY2XijKOTYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
